@@ -319,6 +319,10 @@ a.rightarrow{
 	display:inline-block;
 	vertical-align:middle;
 }
+.footer, .footer a {
+	text-align: center;
+	color: white;
+}
 .contact-section span:nth-child(1){
 	margin-right:10px;
 }
