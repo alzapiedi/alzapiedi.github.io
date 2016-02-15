@@ -192,7 +192,7 @@ a.arrow{
 }
 /*------Skill-Section STARTS---------*/
 .skills{
-	min-height:400px;
+	min-height:375px;
 	background:#20191B;
 	position:relative;
 }
@@ -302,7 +302,7 @@ a.rightarrow{
 .footer{
 	background: url(../images/footerbg.jpg);
 	position: relative;
-	min-height: 567px;
+	min-height: 250px;
 	background-size: cover;
 	position:relative;
 }
