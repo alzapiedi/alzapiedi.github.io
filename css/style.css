@@ -72,7 +72,7 @@ body input[type="text"],body input[type="submit"],body textarea,body input[type=
 	width: 86%;
 }
 .banner-info{
-	width: 90%;
+	width: 70%;
 	float: right;
 }
 .bannerlogo{
@@ -100,9 +100,6 @@ body input[type="text"],body input[type="submit"],body textarea,body input[type=
 .bannerhead p{
     color:#F1E9F2;
 }
-.info-group {
-	width: 550px;
-}
 a.downarrow  span{
  	height:48px;
     width:48px;
@@ -124,12 +121,7 @@ a.downarrow{
 	top: 182px;
 	left: 11%;
 }
-.github-icon {
-	width: 50px;
-	height: 50px;
-	position: relative;
-	right: 25px;
-}
+
 /*------ About STARTS---------*/
 .about{
 	color:white;
@@ -214,6 +206,7 @@ a.arrow{
 .skill-section span:nth-child(2){
 	margin-left:10px;
 }
+
 .skill-grids{
 	padding:3em 0;
 }
