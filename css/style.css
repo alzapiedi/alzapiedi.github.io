@@ -349,6 +349,9 @@ p.copy-right{
 	padding:0.8em 0;
 	text-align:right;
 }
+.credit, .credit a {
+	color: #233;
+}
 p.copy-right a{
 	color:#FFF;
 	text-decoration:none;
