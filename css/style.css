@@ -288,12 +288,10 @@ a.rightarrow{
 	margin-bottom: 20px;
 }
 .img-bdr {
-	align-items: center;
 	border: 1px solid #91898D;
-	display: flex;
-	height: 260px;
+	height: 250px;
 	padding: 10px;
-	width: 260px;
+	width: 250px;
 }
 /*------FOOTER STARTS---------*/
 .footer{
